@@ -1,0 +1,11 @@
+{
+  "title": "Clarity UI",
+  "description": "Streamline corporate meeting management with features for registration, transcription analysis, and sentiment tracking, enhancing productivity and insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
